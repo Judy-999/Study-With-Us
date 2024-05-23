@@ -3,11 +3,11 @@
 
 | 주제 | 설명 | 레포 | 진행 현황 |
 | :--------: | :--------: | :--------: | :--------: |
-| **Clean Code**| [Clean Code 책](https://product.kyobobook.co.kr/detail/S000001032980)을 읽고 발표를 통해 의견을 나누는 스터디 | [꿍톤루주브의 Clean Code 스터디](https://github.com/KTRJB/Clean-Code-Study) | 진행중 📖|
+| **Clean Code**| [Clean Code 책](https://product.kyobobook.co.kr/detail/S000001032980)을 읽고 발표를 통해 의견을 나누는 스터디 | [꿍톤루주브의 Clean Code 스터디](https://github.com/KTRJB/Clean-Code-Study) | 완료 ✅|
 | **SwiftUI**| SwiftUI로 뷰를 구현하고 학습하는 스터디 | [꿍톤루주브의 SwiftUI 스터디](https://github.com/KTRJB/SwiftUI_Study) | 완료 ✅ |
 | **WWDC**    | 매주 WWDC를 보고 정리 및 실습해보는 스터디 | [꿍톤루주의 WWDC 스터디](https://github.com/Groot-94/WWDC_Study)     | 완료 ✅ |
-|**코딩 테스트**|매주 알고리즘(코딩 테스트 연습 문제)를 풀이하는 스터디|[알고리즘 문제 풀이 스터디](https://github.com/Judy-999/AlgorithmStudy)|완료 ✅ -> 개인으로 진행 |
-| **RxSwit**     | RxSwit의 이론을 정리하고 실습해보는 스터디     | [꿍톤루주의 RxSwift 스터디](https://github.com/Groot-94/RxSwift_Study)     | 완료 ✅  |
+|**코딩 테스트**|매주 알고리즘(코딩 테스트 연습 문제)를 풀이하는 스터디|1. [알고리즘 문제 풀이 스터디](https://github.com/Judy-999/AlgorithmStudy) <br> 2. [꿍톤루주브의 코테 스터디](https://github.com/KTRJB/Conging-Test-Study)|진행중 📖|
+| **RxSwit**     | RxSwit의 이론을 정리하고 실습해보는 스터디     | [꿍톤루주의 RxSwift 스터디](https://github.com/Groot-94/RxSwift_Study)   | 완료 ✅  |
 |**면접**|3~4개의 면접 질문을 준비하고 `면접관-면접자-관찰자`가 되어 <br>모의면접을 진행하는 스터디| [면접 스터디](https://github.com/YagomCareerStarterCamp-6/Interview-study-in-swift)  | 완료 ✅  |
 |**디자인 패턴**|22개의 디자인 패턴을 공부 후 예제 코드를 작성하는 스터디|[디자인 패턴 스터디](https://github.com/Judy-999/design-patterns-in-swift)|완료 ✅  |
 |**객체지향**|객체 지향을 이해하기 위해 [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)를 <br>읽고 토론하는 스터디 | [꿍톤루주의 객사오 스터디](https://github.com/Groot-94/The-Essence-Of-Object-Orientation-Study)  | 완료 ✅ |
